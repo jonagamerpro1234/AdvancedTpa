@@ -34,7 +34,7 @@ public class AdvancedTpa extends JavaPlugin{
 	public static AdvancedTpa getPlugin() {
 		return plugin;
 	}
-	
+	@SuppressWarnings("unused")
 	private  void loadNms(String nmsversion) {
 		try {
 			Class<?> clazz = Class.forName("jss.advancedtpa.utils.version" + "." + nmsversion + "." + "");
