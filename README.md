@@ -20,5 +20,6 @@ AdvancedTpa is a plugin that helps you teleport to another player via a clickabl
 
 ## Support
 * [Issue Tracker](https://github.com/jonagamerpro1234/AdvancedTpa/issues)
+* [Discord](https://discord.gg/c5GhQDQCK5)
 
 ## Quick Links
